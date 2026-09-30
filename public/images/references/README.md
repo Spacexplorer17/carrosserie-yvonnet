@@ -12,3 +12,7 @@ Fichiers cibles :
 Au 30 septembre 2026, les fichiers binaires originaux n'ont pas pu être exportés par l'interface disponible. Ne pas remplacer ces fichiers par des images web approximatives ou générées. Lorsque les originaux sont récupérés, conserver leur provenance et renseigner leurs droits dans `docs/CONTENT_SOURCE.md` et `docs/PHOTO_SHOTLIST.md`.
 
 La photo de signalétique ne prouve pas que les agréments ou logos visibles sont actuels. Le logo Cognac VSP est une référence : rechercher le fichier officiel et ses règles d'usage avant production.
+
+## Référence Yvonnet ajoutée le 30 septembre 2026
+
+`logo-yvonnet-relief-valide.png` est la reconstruction PNG du logo transmise par Lukyan et validée visuellement par lui. Ce n'est pas le fichier vectoriel officiel de l'entreprise. Le fichier joint a été copié à l'identique, sans retouche ni optimisation (SHA-256 : `7D358BEA52AE163B4CC78D5BE64062C90F4EACB536744661D5896C44AF4FBE80`). Il est conservé comme référence uniquement et n'est pas intégré aux pages du site.
